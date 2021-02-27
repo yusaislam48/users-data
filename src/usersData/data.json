@@ -5,6 +5,7 @@
       "username": "Bret",
       "email": "Sincere@april.biz",
       "image": "https://randomuser.me/api/portraits/men/22.jpg",
+      "annualSalary": 14790,
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -29,6 +30,7 @@
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
       "image": "https://randomuser.me/api/portraits/men/25.jpg",
+      "annualSalary": 1470,
       "address": {
         "street": "Victor Plains",
         "suite": "Suite 879",
@@ -53,6 +55,7 @@
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
       "image": "https://randomuser.me/api/portraits/men/26.jpg",
+      "annualSalary": 1790,
       "address": {
         "street": "Douglas Extension",
         "suite": "Suite 847",
@@ -77,6 +80,7 @@
       "username": "Karianne",
       "email": "Julianne.OConner@kory.org",
       "image": "https://randomuser.me/api/portraits/men/27.jpg",
+      "annualSalary": 14690,
       "address": {
         "street": "Hoeger Mall",
         "suite": "Apt. 692",
@@ -101,6 +105,7 @@
       "username": "Kamren",
       "email": "Lucio_Hettinger@annie.ca",
       "image": "https://randomuser.me/api/portraits/men/28.jpg",
+      "annualSalary": 5555,
       "address": {
         "street": "Skiles Walks",
         "suite": "Suite 351",
@@ -125,6 +130,7 @@
       "username": "Leopoldo_Corkery",
       "email": "Karley_Dach@jasper.info",
       "image": "https://randomuser.me/api/portraits/men/30.jpg",
+      "annualSalary": 14790,
       "address": {
         "street": "Norberto Crossing",
         "suite": "Apt. 950",
@@ -149,6 +155,7 @@
       "username": "Elwyn.Skiles",
       "email": "Telly.Hoeger@billy.biz",
       "image": "https://randomuser.me/api/portraits/men/31.jpg",
+      "annualSalary": 74678,
       "address": {
         "street": "Rex Trail",
         "suite": "Suite 280",
@@ -173,6 +180,7 @@
       "username": "Maxime_Nienow",
       "email": "Sherwood@rosamond.me",
       "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "annualSalary": 26451,
       "address": {
         "street": "Ellsworth Summit",
         "suite": "Suite 729",
@@ -197,6 +205,7 @@
       "username": "Delphine",
       "email": "Chaim_McDermott@dana.io",
       "image": "https://randomuser.me/api/portraits/men/33.jpg",
+      "annualSalary": 4511,
       "address": {
         "street": "Dayna Park",
         "suite": "Suite 449",
@@ -221,6 +230,7 @@
       "username": "Moriah.Stanton",
       "email": "Rey.Padberg@karina.biz",
       "image": "https://randomuser.me/api/portraits/men/34.jpg",
+      "annualSalary": 54522,
       "address": {
         "street": "Kattie Turnpike",
         "suite": "Suite 198",
@@ -245,6 +255,7 @@
       "username": "pelletier",
       "email": "William.Pelletier@karina.biz",
       "image": "https://randomuser.me/api/portraits/men/44.jpg",
+      "annualSalary": 54842,
       "address": {
         "street": "Coastal Highway",
         "suite": "Suite 180",
@@ -269,6 +280,7 @@
       "username": "Inmaculada.Inmaculada",
       "email": "Inmaculada.Inmaculada@karina.biz",
       "image": "https://randomuser.me/api/portraits/men/45.jpg",
+      "annualSalary": 15451,
       "address": {
         "street": "Calle de Argumosa",
         "suite": "Suite 188",
@@ -293,6 +305,7 @@
       "username": "Rafael.Sanchez",
       "email": "Rafael.Sanchez@karina.biz",
       "image": "https://randomuser.me/api/portraits/men/74.jpg",
+      "annualSalary": 31016,
       "address": {
         "street": "Rue Baraban",
         "suite": "Suite 108",
@@ -317,6 +330,7 @@
       "username": "Hudson.Gauthier",
       "email": "Hudson.Gauthier@karina.biz",
       "image": "https://randomuser.me/api/portraits/men/56.jpg",
+      "annualSalary": 1551,
       "address": {
         "street": "St. Lawrence Ave",
         "suite": "Suite 208",
@@ -341,6 +355,7 @@
       "username": "Matthäus.Thoma",
       "email": "Matthäus.Thoma@karina.biz",
       "image": "https://randomuser.me/api/portraits/men/89.jpg",
+      "annualSalary": 1455,
       "address": {
         "street": "Lindenstraße",
         "suite": "Suite 198",

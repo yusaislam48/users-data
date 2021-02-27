@@ -1,0 +1,32 @@
+.user{
+    text-align: center;
+    border: 2px solid tomato;
+    border-radius: 10px;
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    background-color: white;
+}
+.user img{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.user p{
+    font-weight: 500;
+}
+.user button{
+    background-color: lightblue;
+    color: black;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+}
+.user button:hover{
+    cursor: pointer;
+    background-color: tomato;
+    color: white;
+}
+.color{
+    color: tomato;
+}
